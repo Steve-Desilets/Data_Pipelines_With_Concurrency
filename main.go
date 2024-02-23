@@ -132,7 +132,7 @@ func saveImage(input <-chan Job) <-chan bool {
 			// Log the time taken to save the image
 			endTimeSave := time.Now()
 			elapsedTimeSave := endTimeSave.Sub(startTimeSave)
-			LogInfo("Image loaded in: " + elapsedTimeSave.String())
+			LogInfo("Image saved externally in: " + elapsedTimeSave.String())
 		}
 		close(out)
 	}()
