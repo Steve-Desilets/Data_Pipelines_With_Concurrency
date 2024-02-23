@@ -1,0 +1,2 @@
+Total Pipeline Throughput Time: 1055  microseconds
+Total Memory Used: 50270384  bytes

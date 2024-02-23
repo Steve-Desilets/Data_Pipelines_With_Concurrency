@@ -1,0 +1,21 @@
+INFO: 2024/02/23 14:39:12 main.go:39: Application has started
+INFO: 2024/02/23 14:39:12 main.go:39: Image loaded in: 25.3691ms for path: images/image1.jpeg
+INFO: 2024/02/23 14:39:12 main.go:39: Image resized in: 24.2849ms
+INFO: 2024/02/23 14:39:12 main.go:39: Image loaded in: 32.7941ms for path: images/image2.jpeg
+INFO: 2024/02/23 14:39:12 main.go:39: Image converted to greyscale in: 8.5092ms
+INFO: 2024/02/23 14:39:12 main.go:39: Image loaded in: 6.0717ms
+INFO: 2024/02/23 14:39:12 main.go:39: Success! Image processing completed.
+INFO: 2024/02/23 14:39:12 main.go:39: Image resized in: 24.1595ms
+INFO: 2024/02/23 14:39:12 main.go:39: Image converted to greyscale in: 8.3034ms
+INFO: 2024/02/23 14:39:12 main.go:39: Image loaded in: 6.7412ms
+INFO: 2024/02/23 14:39:12 main.go:39: Success! Image processing completed.
+INFO: 2024/02/23 14:39:12 main.go:39: Image loaded in: 47.3422ms for path: images/image3.jpeg
+INFO: 2024/02/23 14:39:12 main.go:39: Image resized in: 29.2035ms
+INFO: 2024/02/23 14:39:12 main.go:39: Image loaded in: 29.2035ms for path: images/image4.jpeg
+INFO: 2024/02/23 14:39:12 main.go:39: Image converted to greyscale in: 8.6579ms
+INFO: 2024/02/23 14:39:12 main.go:39: Image resized in: 12.6669ms
+INFO: 2024/02/23 14:39:12 main.go:39: Image loaded in: 6.002ms
+INFO: 2024/02/23 14:39:12 main.go:39: Success! Image processing completed.
+INFO: 2024/02/23 14:39:12 main.go:39: Image converted to greyscale in: 7.5663ms
+INFO: 2024/02/23 14:39:12 main.go:39: Success! Image processing completed.
+INFO: 2024/02/23 14:39:12 main.go:39: Image loaded in: 6.033ms

@@ -1,0 +1,5 @@
+2024/02/23 14:39:54 Dimensions of read image correctly match original image
+2024/02/23 14:39:54 Image written to file successfully
+2024/02/23 14:39:54 Test image file removed successfully
+2024/02/23 14:39:54 Image resized successfully
+2024/02/23 14:39:54 Success: Grayscale image dimensions match original image dimensions
